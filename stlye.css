@@ -1,5 +1,5 @@
 .banner {
-    background: url("banner.jpg")
+    background: url(bertigawwe.png)
       no-repeat center center;
     background-size: cover;
     padding-top: 20%;
@@ -14,7 +14,7 @@
     margin: auto;
     height: 150px;
     color: #fff;
-    background-color: #7cc6f8;
+    background-color: #61AFCA;
   }
   
   .lingkaran i {
