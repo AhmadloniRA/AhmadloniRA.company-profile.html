@@ -5,7 +5,7 @@
             $password = $_POST['password'];
 
             if($email == 'loni@admin.com' && $password == 'admin') {
-                header("Location: ./../index.html");
+                header("Location: ./../dashboard.php");
         } else {
             echo "email atau password salah";
 
